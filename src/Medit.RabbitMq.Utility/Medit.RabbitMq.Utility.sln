@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medit.RabbitMq.Utility", "Medit.RabbitMq.Utility\Medit.RabbitMq.Utility.csproj", "{BD25031D-A9E6-485A-A7CB-FC99DAA57672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medit.RabbitMq.Utility.Test.Server", "Medit.RabbitMq.Utility.Test.Server\Medit.RabbitMq.Utility.Test.Server.csproj", "{978080A5-1762-4403-BAE5-EE89813DEE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medit.RabbitMq.Utility.Test.Client", "Medit.RabbitMq.Utility.Test.Client\Medit.RabbitMq.Utility.Test.Client.csproj", "{C969C0B1-E8E2-4EC4-A679-5FDF25520566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD25031D-A9E6-485A-A7CB-FC99DAA57672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD25031D-A9E6-485A-A7CB-FC99DAA57672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD25031D-A9E6-485A-A7CB-FC99DAA57672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD25031D-A9E6-485A-A7CB-FC99DAA57672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978080A5-1762-4403-BAE5-EE89813DEE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978080A5-1762-4403-BAE5-EE89813DEE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978080A5-1762-4403-BAE5-EE89813DEE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978080A5-1762-4403-BAE5-EE89813DEE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C969C0B1-E8E2-4EC4-A679-5FDF25520566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C969C0B1-E8E2-4EC4-A679-5FDF25520566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C969C0B1-E8E2-4EC4-A679-5FDF25520566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C969C0B1-E8E2-4EC4-A679-5FDF25520566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74AF211-E787-4EE8-A89A-6941A78FC493}
+	EndGlobalSection
+EndGlobal

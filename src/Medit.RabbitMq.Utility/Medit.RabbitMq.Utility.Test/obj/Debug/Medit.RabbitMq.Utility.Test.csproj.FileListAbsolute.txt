@@ -1,0 +1,17 @@
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\obj\Debug\Medit.RabbitMq.Utility.Test.csprojResolveAssemblyReference.cache
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\obj\Debug\Medit.RabbitMq.Utility.Test.csproj.CoreCompileInputs.cache
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Medit.RabbitMq.Utility.Test.exe.config
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Medit.RabbitMq.Utility.Test.exe
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Medit.RabbitMq.Utility.Test.pdb
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Medit.RabbitMq.Utility.dll
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Newtonsoft.Json.dll
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\RabbitMQ.Client.dll
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Medit.RabbitMq.Utility.pdb
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Newtonsoft.Json.pdb
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\Newtonsoft.Json.xml
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\bin\Debug\RabbitMQ.Client.xml
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\obj\Debug\Medit.RabbitMq.Utility.Test.csproj.CopyComplete
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\obj\Debug\Medit.RabbitMq.Utility.Test.exe
+D:\个人\demo\RabbitMqHelper\RabbitMQ_Helper\Medit.RabbitMq.Utility.Test\obj\Debug\Medit.RabbitMq.Utility.Test.pdb
